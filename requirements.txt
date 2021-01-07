@@ -58,7 +58,7 @@ laser-geometry==1.6.4
 launchpadlib==1.10.6
 lazr.restfulclient==0.13.5
 lazr.uri==1.0.3
-lxml==4.2.1
+lxml==4.6.2
 lz4==0.10.1
 matplotlib==2.1.1
 mercurial==4.5.3
